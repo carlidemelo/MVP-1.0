@@ -3,6 +3,7 @@
 let listaDeAmigos = [];
 
 // Adiciona nome à lista
+// teste
 function adicionarAmigo() {
     const input = document.getElementById("amigo");
     const nome = input.value.trim();
